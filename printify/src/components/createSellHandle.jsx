@@ -12,7 +12,8 @@ function createSellHandle() {
             <img className='w-32' src={CustomProduct} alt="" />
             <p className='font-bold text-[18px] mt-8 text-green-600 mb-0'>CREATE</p>
             <p className='font-bold text-[24px] '>custom products</p>
-            <p className='md:w-72 w-auto mt-6 h-auto'>Easily add your designs to a wide range 
+            <p className='md:w-72 w-auto mt-6 h-auto'>Easily add your designs to 
+              a wide range 
               of products using our free tools</p>
         </div>
 
